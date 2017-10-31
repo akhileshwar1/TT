@@ -1,0 +1,6 @@
+{
+        "mapsApiKey": "AIzaSyAf6lyTQtLpm08o82WRGWeyfH23Be-fJdk",
+        "databaseURL": "https://transport-tracker-82b00.firebaseio.com",
+        "simulation": false
+
+}
